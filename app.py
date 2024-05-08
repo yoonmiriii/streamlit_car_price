@@ -5,7 +5,7 @@ from ml import run_ml
 
 
 def main() :
-    st.title('자동차 가격 예측 앱!')
+    st.title('자동차 가격 예측 앱!!')
 
     menu = ['Home', 'EDA', 'ML']
 
